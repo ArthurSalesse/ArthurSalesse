@@ -4,9 +4,9 @@ Estudante de Ciência da Computação
 Universidade Tecnológica Federal do Paraná (UTFPR)  
 
 Atualmente focado em evoluir minhas habilidades em:
-- C++
-- Arquitetura de Software
-- Estruturas de Dados e Algoritmos
+- Analise de dados
+- Machine learning
+- Estruturas de Dados
 
 ---
 
@@ -14,10 +14,6 @@ Atualmente focado em evoluir minhas habilidades em:
 Sou um estudante de tecnologia focado em resolução de problemas.  
 Tenho interesse em desenvolvimento de software, boas práticas de programação e construção de sistemas eficientes.
 
-Atualmente busco:
-- Aprimorar minhas habilidades técnicas
-- Ganhar experiência prática em projetos
-- Contribuir com projetos open source
 
 ---
 
